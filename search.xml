@@ -13,6 +13,7 @@
 <li>-a :拉取所有 tagged 镜像</li>
 <li>–disable-content-trust :忽略镜像的校验,默认开启</li>
 </ul>
+<h2 id="查看镜像列表"><a href="#查看镜像列表" class="headerlink" title="查看镜像列表"></a>查看镜像列表</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">docker images </span><br></pre></td></tr></table></figure>
 ]]></content>
   </entry>
 </search>
